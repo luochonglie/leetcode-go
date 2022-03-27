@@ -1,2 +1,2 @@
-# leetcode-go
+# Leetcode-go
 Leetcode-GO
